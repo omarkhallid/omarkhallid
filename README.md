@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omarkhallid
-- 👀 I’m interested in ...
+- 👀 I’m interested in Swimmming , Football and Coding 
 - 🌱 I’m currently learning Testing and Quality Assurance
 - 💞️ I’m looking to collaborate on new projects and excited probelems to solve
 - 📫 How to reach me ...LinkedIn Profile(linkedin.com/in/omar-khaled-95200519b/)

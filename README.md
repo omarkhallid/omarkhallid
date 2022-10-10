@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omarkhallid
+- 👋 Hi, I’m Omar Khaled
 - 👀 I’m interested in Swimmming , Football and Coding 
 - 🌱 I’m currently learning Testing and Quality Assurance
 - 💞️ I’m looking to collaborate on new projects and interesting problems to solve
